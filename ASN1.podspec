@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/username/YourPodName.git", :tag => s.version.to_s }
 
   s.swift_version = '5.7'
-  s.source_files  = "Sources/YourPodName/**/*.swift"
+  s.source_files  = "Sources/ASN1/**/*.swift"
   
   s.dependency 'BigInt'
 end
