@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "YourPodName" # replace with your pod's name
+  s.name         = "ASN1" # replace with your pod's name
   s.version      = "0.1.0" # specify the version here
   s.summary      = "A short description of YourPodName." # specify a short description here
 
